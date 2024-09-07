@@ -1,0 +1,14 @@
+# 忽略 node_modules
+node_modules/
+
+# 忽略 npm 日誌
+npm-debug.log
+
+# 忽略 Git 目錄
+.git/
+
+# 忽略本地環境配置
+.env
+
+# 忽略 Dockerfile
+Dockerfile
