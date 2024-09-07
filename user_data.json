@@ -1,0 +1,23 @@
+{
+  "1234": {
+    "id": "1234",
+    "disadvantaged": "Lowincome",
+    "dailyLimit": {
+      "water": 3,
+      "meals": 2
+    },
+    "used": {
+      "water": 3,
+      "meals": 2
+    },
+    "lastReset": "2024-09-07T11:49:16.095Z",
+    "keys": {
+      "waterKey": "d528c2706426cb5d0d9bef9ce7cf125c",
+      "mealKey": null
+    },
+    "keyExpires": {
+      "waterExpires": "2024-09-07T23:49:23.976Z",
+      "mealExpires": null
+    }
+  }
+}
